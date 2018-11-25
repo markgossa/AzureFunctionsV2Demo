@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "HttpTrigger": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\dotnet\\dotnet.exe",
+      "commandLineArgs": "\"C:\\users\\mark gossa\\appdata\\roaming\\npm\\node_modules\\azure-functions-core-tools\\bin\\func.dll\" host start --publish-local-settings"
+    }
+  }
+}
